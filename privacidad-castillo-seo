@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Política de privacidad — Castillo SEO</title>
+    <style>
+      body {
+        font-family: "Segoe UI", Candara, sans-serif;
+        max-width: 640px;
+        margin: 40px auto;
+        padding: 0 20px;
+        line-height: 1.6;
+        color: #1e293b;
+      }
+      h1 {
+        font-size: 1.5rem;
+      }
+      h2 {
+        font-size: 1.1rem;
+        margin-top: 1.5rem;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Política de privacidad — Castillo SEO</h1>
+    <p>Última actualización: octubre 2026</p>
+
+    <h2>Qué datos se procesan</h2>
+    <p>
+      Castillo SEO analiza el HTML de la pestaña activa cuando el usuario abre la extensión
+      (title, meta tags, headings, enlaces, imágenes, etc.). Además, lee el código de estado
+      HTTP de la navegación (por ejemplo 301, 404, 500) solo para mostrarlo en el badge del
+      icono de la extensión. Ese dato se usa en local y no se guarda.
+    </p>
+
+    <h2>Qué no hacemos</h2>
+    <ul>
+      <li>No enviamos datos a servidores externos.</li>
+      <li>No almacenamos historial ni contenido de páginas.</li>
+      <li>No usamos cookies ni rastreo publicitario.</li>
+      <li>No vendemos ni compartimos información con terceros.</li>
+    </ul>
+
+    <h2>Permisos</h2>
+    <p>
+      Usa <code>activeTab</code> y <code>scripting</code> para el análisis SEO al abrir el popup,
+      y <code>webRequest</code> (con acceso a páginas http/https) únicamente para detectar el
+      código HTTP de la pestaña y mostrarlo en el icono.
+    </p>
+
+    <h2>Contacto</h2>
+    <p>Para consultas sobre privacidad, sustituye este texto por tu email o formulario de contacto antes de publicar en Chrome Web Store.</p>
+  </body>
+</html>
