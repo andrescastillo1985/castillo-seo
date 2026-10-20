@@ -23,4 +23,4 @@ Usa `activeTab` y `scripting` para el análisis SEO al abrir el popup, y `webReq
 
 ## Contacto
 
-Para consultas sobre privacidad: **pon aquí tu email**.
+Para consultas sobre privacidad: **andrescastillo1985@gmail.com**.
